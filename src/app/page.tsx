@@ -28,7 +28,7 @@ export default async function Home() {
           </h1>
 
           <p className="mb-6 text-lg text-gray-400">
-            El enlace de ubicación todavía no está disponible.
+            El enlace todavía no está disponible.
           </p>
 
           <p className="text-sm text-gray-500">
